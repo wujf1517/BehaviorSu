@@ -11,6 +11,7 @@ A fine-grained grid (100×100) search is performed to get the ground truth of th
 
 The performance of each method in this logical scenario is shown as below. Compared with other methods, DUSGAT has the best performance. 
 
+![avatar](benchmark.jpeg)
 
 
 ## B.Validation of the Behavior Surrogate

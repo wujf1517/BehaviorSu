@@ -10,7 +10,6 @@ A fine-grained grid (100×100) search is performed to get the ground truth of th
 ## A.Validation of the Accelerated Testing Method
 
 The performance of each method in this logical scenario is shown as below. Compared with other methods, DUSGAT has the best performance. 
-
 ![avatar](benchmark.jpeg)
 
 

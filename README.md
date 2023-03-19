@@ -1,4 +1,4 @@
-### IV2023-papaer-'Accelerated Testing of Autonomous Vehicles Based on Dual Surrogates'
+### IV2023-papaer-'Accelerated Testing of Autonomous Vehicles Based on Dual Surrogates' ###
 
 ## experiment in Cut-in scenario
 The scenario configuration is shown as below. Except for the distance (S1 = [30,100]m) between ego vehicle(Ego) and the cut-in vehicle(C1) and the longitudinal speed (V1 = [10,30]m/s) of C1, other scenario parameters are fixed

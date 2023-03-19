@@ -1,6 +1,6 @@
 ### IV2023-papaer-'Accelerated Testing of Autonomous Vehicles Based on Dual Surrogates'
 
-## experiment in Cut in scenario
+## experiment in Cut-in scenario
 The scenario configuration is shown as below.
 ![avatar](cutinsce.png)
 
@@ -8,6 +8,9 @@ A fine-grained grid (100×100) search is performed to get the ground truth of th
 ![avatar](groundtruth_two_para.jpeg)
 
 ## A.Validation of the Accelerated Testing Method
+
+The performance of each method in this logical scenario is shown as below. Compared with other methods, DUSGAT has the best performance. 
+
 
 
 ## B.Validation of the Behavior Surrogate

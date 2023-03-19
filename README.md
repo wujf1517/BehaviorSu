@@ -16,3 +16,11 @@ A fine-grained grid (100×100) search is performed to get the ground truth of th
 The predicted distribution of the critical subspaces in this logical scenario output by the behavior surrogate is shown as below, in which the critical subspaces are marked in yellow
 ![avatar](pre_two_para.png)
 
+A. prediction result of critical scenarios:
+precision:0.9927
+recall:0.9706
+
+B. prediction result of non-critical scenarios:
+precision:0.9993
+recall:0.9973
+

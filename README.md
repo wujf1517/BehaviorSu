@@ -1,6 +1,9 @@
 ### IV2023-papaer-'Accelerated Testing of Autonomous Vehicles Based on Dual Surrogates'
 
 ## experiment in Cut in scenario
+The scenario configuration is shown as below.
+![avatar](cutinsce.png)
+
 A fine-grained grid (100×100) search is performed to get the ground truth of the objective function in the parameter space for benchmarking. As shown below, the critical subspaces are identified with red outlines.
 ![avatar](groundtruth_two_para.jpeg)
 

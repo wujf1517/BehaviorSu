@@ -44,14 +44,14 @@ The performance of each method in this logical scenario is shown as below. Compa
 
 
 The predicted distribution of the critical subspaces in this logical scenario output by the behavior surrogate is shown as below, in which the critical subspaces are marked in yellow
-![avatar](pre_two_para.png)
+![avatar](pre_two_para_cout.png)
 
 1). prediction result of critical scenarios:
-precision:0.9927
-recall:0.9706
+precision:0.9393
+recall:0.9697
 
 2). prediction result of non-critical scenarios:
-precision:0.9993
-recall:0.9973
+precision:0.9888
+recall:0.9770
 
 

@@ -10,7 +10,7 @@ A fine-grained grid (100×100) search is performed to get the ground truth of th
 ### A.Validation of the Accelerated Testing Method
 
 The performance of each method in this logical scenario is shown as below. Compared with other methods, DUSGAT has the best performance. 
-![avatar](benchmark.jpeg)
+![avatar](benchmark_cin.jpeg)
 
 
 ### B.Validation of the Behavior Surrogate
@@ -37,7 +37,7 @@ A fine-grained grid (100×100) search is performed to get the ground truth of th
 ### A.Validation of the Accelerated Testing Method
 
 The performance of each method in this logical scenario is shown as below. Compared with other methods, DUSGAT has the best performance. 
-
+![avatar](benchmark_cout.jpeg)
 
 
 ### B.Validation of the Behavior Surrogate
@@ -51,7 +51,7 @@ precision:0.9393
 recall:0.9697
 
 2). prediction result of non-critical scenarios:
-precision:0.9888
+precision:0.9888。
 recall:0.9770
 
 

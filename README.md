@@ -32,7 +32,7 @@ The variable parameters are the distance(ds=[10,80]m) between the ego car and th
 ![avatar](cutoutsce.png)
 
 A fine-grained grid (100×100) search is performed to get the ground truth of the objective function in the parameter space for benchmarking. As shown below, the critical subspaces are identified with red outlines.
-![avatar](groundtruth_two_para_cout.jpeg)
+![avatar](groundtruth_two_para_cout.jpeg=100x100)
 
 ### A.Validation of the Accelerated Testing Method
 
@@ -42,7 +42,7 @@ The performance of each method in this logical scenario is shown as below. Compa
 
 ### B.Validation of the Behavior Surrogate
 The predicted distribution of the critical subspaces in this logical scenario output by the behavior surrogate is shown as below, in which the critical subspaces are marked in yellow
-![avatar](pre_two_para_cout.png)
+![avatar](pre_two_para_cout.png=100x100)
 
 
 1). prediction result of critical scenarios:
